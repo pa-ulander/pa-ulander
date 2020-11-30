@@ -54,16 +54,15 @@ For CV and references to work i have done over the years please visit my <a href
   <img alt="Linux Mint" src="https://img.shields.io/badge/linux%20mint-87CF3E?logo=linux-mint&logoColor=white&style=for-the-badge" />
   <img alt="Alpine" src="https://img.shields.io/badge/alpine-0D597F?logo=alpine-linux&logoColor=white&style=for-the-badge" />
   <img alt="Red Hat" src="https://img.shields.io/badge/red%20hat-EE0000?logo=red-hat&logoColor=white&style=for-the-badge" />
-
-  <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white&style=for-the-badge" />
 
   <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge" />
   <img alt="Github" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
-  <img alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 
 </p>
 
