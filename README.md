@@ -73,7 +73,7 @@ For CV and references to work i have done over the years please visit my <a href
 ### Contact me
 
 Please feel free to connect with me.<br />
-For work related inquiries Linkedin works best.
+For work related enquiries Linkedin works best.
 
 <p>
   <!-- <a href="https://www.youtube.com/channel/UCvfvbhvWJlg2LP2Xs_TcWzw">
