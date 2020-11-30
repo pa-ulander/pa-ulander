@@ -1,11 +1,17 @@
-<img src="./banner.png" alt="banner" style="width: 50%; max-width:320px" />
+<center>
+<img src="./banner.png" alt="banner" />
 
-### Hi there and welcome to my GitHub page 👋
+## Hi there and welcome to my GitHub page 👋
+</center>
 
-I am an enthusiastic web developer from Stockholm, Sweden.
-- 🔭 Currently working on a client project
-- 🌱 Currently learning/studying: Typescript, Go and Java 
+My name is PA Ulander and I am an enthusiastic web developer from Stockholm, Sweden.
+For an updated CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/"> linkedin profile</a>. Also, please feel welcome to send a request to connect with me. 
 
+### What am I doing?
+- 🔭 I'm currently working on an interesting and fun client project. 
+- 🌱 I'm having fun learning Typescript, Go and Java and lots of other things. 
+
+---
 ### What do I use to get things done?
 
 <p>
@@ -48,6 +54,8 @@ I am an enthusiastic web developer from Stockholm, Sweden.
 
 </p>
 
+---
+
 ### Contact me
 Please feel free to connect with me.<br />
 For work related inquiries Linkedin works best.
@@ -66,6 +74,8 @@ For work related inquiries Linkedin works best.
   </a>
 </p>
 
-### Github stats
+
+---
+### Some stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pa-ulander&count_private=true&title_color=666&icon_color=000000&text_color=666&custom_title=PA+Ulanders's+GitHub+Stats&show_icons=true" />
