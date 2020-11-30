@@ -25,6 +25,8 @@ For CV and references to work i have done over the years please visit my <a href
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge" />
   <img alt="Ember" src="https://img.shields.io/badge/ember-E04E39?logo=ember.js&logoColor=white&style=for-the-badge" />
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img alt="Appollo GraphQl" src="https://img.shields.io/badge/apollographql-311C87?logo=apollo-graphql&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
@@ -41,7 +43,7 @@ For CV and references to work i have done over the years please visit my <a href
   <img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-003545?logo=mariadb&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+
   <img alt="Bash" src="https://img.shields.io/badge/bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
   <img alt="NGINX" src="https://img.shields.io/badge/nginx-269539?logo=nginx&logoColor=white&style=for-the-badge" />
@@ -87,19 +89,20 @@ For work related inquiries Linkedin works best.
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
 
-  [![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander)
+[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander) 
+[![Gists Badge](https://badges.pufler.dev/gists/pa-ulander?kill_cache=1)](https://badges.pufler.dev/gists/pa-ulander) 
+[![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/updated/pa-ulander/pa-ulander) 
+[![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev) 
+[![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev)
 
 </p>
 
 ---
 
-<!-- ### Some stats
-
+<!-- ### Some stats -->
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=pa-ulander&count_private=true&title_color=666&icon_color=000000&text_color=666&custom_title=PA+Ulanders's+GitHub+Stats&show_icons=true" />
+ -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander)
-[![Gists Badge](https://badges.pufler.dev/gists/pa-ulander?kill_cache=1)](https://badges.pufler.dev/gists/pa-ulander)
-[![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/updated/pa-ulander/pa-ulander)
-
-[![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev) -->
+<!-- ![PA Ulander's github stats](https://github-readme-stats.vercel.app/api?username=pa-ulander&include_all_commits=true&count_private=true&show_icons=true&title_color=666)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-ulander&hide=php)](https://github.com/pa-ulander/github-readme-stats) -->
