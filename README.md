@@ -75,13 +75,16 @@ For work related inquiries Linkedin works best.
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
     <!-- <a href="https://www.instagram.com/pa_ulander/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> -->
-  </a>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
+  </a>-->
+
+  [![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander)
+
 </p>
 
 ---
 
-### Some stats
+<!-- ### Some stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=pa-ulander&count_private=true&title_color=666&icon_color=000000&text_color=666&custom_title=PA+Ulanders's+GitHub+Stats&show_icons=true" />
 
@@ -89,5 +92,5 @@ For work related inquiries Linkedin works best.
 [![Gists Badge](https://badges.pufler.dev/gists/pa-ulander?kill_cache=1)](https://badges.pufler.dev/gists/pa-ulander)
 [![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/updated/pa-ulander/pa-ulander)
 
-<!-- [![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev)-->
+[![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev) -->
