@@ -15,7 +15,7 @@ For CV and references to work i have done over the years please visit my <a href
 
 ---
 
-### Yay much fun badges! What do I use to get things done?
+### Fun badges! What may I use to get things done?
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
