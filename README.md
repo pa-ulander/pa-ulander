@@ -90,19 +90,16 @@ For work related enquiries Linkedin works best.
   </a>-->
 
 [![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander) 
-[![Gists Badge](https://badges.pufler.dev/gists/pa-ulander?kill_cache=1)](https://badges.pufler.dev/gists/pa-ulander) 
-[![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/updated/pa-ulander/pa-ulander) 
-[![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev) 
-[![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev)
+<!-- [![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/updated/pa-ulander/pa-ulander)  -->
+<!-- [![Gists Badge](https://badges.pufler.dev/gists/pa-ulander?kill_cache=1)](https://badges.pufler.dev/gists/pa-ulander)  -->
+<!-- [![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev)  -->
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev) -->
 
 </p>
 
 ---
 
 <!-- ### Some stats -->
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=pa-ulander&count_private=true&title_color=666&icon_color=000000&text_color=666&custom_title=PA+Ulanders's+GitHub+Stats&show_icons=true" />
- -->
 
 <!-- ![PA Ulander's github stats](https://github-readme-stats.vercel.app/api?username=pa-ulander&include_all_commits=true&count_private=true&show_icons=true&title_color=666)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-ulander&hide=php)](https://github.com/pa-ulander/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-ulander&layout=compact)](https://github.com/pa-ulander/github-readme-stats) -->
