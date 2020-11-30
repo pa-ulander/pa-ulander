@@ -78,4 +78,10 @@ For work related inquiries Linkedin works best.
 ---
 ### Some stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa-ulander&count_private=true&title_color=666&icon_color=000000&text_color=666&custom_title=PA+Ulanders's+GitHub+Stats&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=pa-ulander&count_private=true&title_color=666&icon_color=000000&text_color=666&custom_title=PA+Ulanders's+GitHub+Stats&show_icons=true" />
+
+[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/pa-ulander)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev)-->
