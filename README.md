@@ -25,11 +25,16 @@ For CV and references to work i have done over the years please visit my <a href
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge" />
   <img alt="Ember" src="https://img.shields.io/badge/ember-E04E39?logo=ember.js&logoColor=white&style=for-the-badge" />
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
+  <img alt="Grunt" src="https://img.shields.io/badge/grunt-FBA919?logo=grunt&logoColor=white&style=for-the-badge" />
+  <img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge" />
+  <img alt="Jest" src="https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="Appollo GraphQl" src="https://img.shields.io/badge/apollographql-311C87?logo=apollo-graphql&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Material UI" src="https://img.shields.io/badge/material--ui-0081CB?logo=material&logoColor=white&style=for-the-badge" />
 
   <img alt="Node" src="https://img.shields.io/badge/node-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
@@ -38,6 +43,7 @@ For CV and references to work i have done over the years please visit my <a href
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
   <img alt="Zend Framework" src="https://img.shields.io/badge/zend-68B604?logo=zend-framework&logoColor=white&style=for-the-badge" />
   <img alt="Symfony" src="https://img.shields.io/badge/symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" />
+  <img alt="Magento" src="https://img.shields.io/badge/magento-EE672F?logo=magento&logoColor=white&style=for-the-badge" />
 
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
