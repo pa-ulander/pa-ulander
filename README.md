@@ -6,7 +6,7 @@
 </center>
 
 My name is PA Ulander and I am an enthusiastic web developer from Stockholm, Sweden.
-For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/"> linkedin profile</a>. And please feel welcome to send a request to connect with me.
+For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>. And please feel welcome to send a request to connect with me.
 
 ### What am I doing?
 
@@ -15,11 +15,12 @@ For CV and references to work i have done over the years please visit my <a href
 
 ---
 
-### Fun badges! What may I use to get things done?
+### What may I use to get things done?
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Reduxt" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Vue" src="https://img.shields.io/badge/vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge" />
   <img alt="Ember" src="https://img.shields.io/badge/ember-E04E39?logo=ember.js&logoColor=white&style=for-the-badge" />
