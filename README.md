@@ -1,11 +1,6 @@
-<center>
 <img src="./banner.png" alt="banner" />
 
-## Hi there and welcome to my GitHub page 👋
-
-</center>
-
-My name is PA Ulander and I am an enthusiastic web developer from Stockholm, Sweden.
+My friends call me PA and I am an enthusiastic web developer located in Stockholm, Sweden.
 For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>. And please feel welcome to send a request to connect with me.
 
 ### What am I doing?
@@ -86,26 +81,25 @@ For work related enquiries Linkedin works best.
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a> -->
     <a href="https://www.linkedin.com/in/paulander/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/pa%20ulander-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a> 
   <a href="https://twitter.com/pa_ulander">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img alt="Twitter" src="https://img.shields.io/badge/@pa_ulander-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
     <!-- <a href="https://www.instagram.com/pa_ulander/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
 
-[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander) 
-<!-- [![Updated Badge](https://badges.pufler.dev/updated/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/updated/pa-ulander/pa-ulander)  -->
-<!-- [![Gists Badge](https://badges.pufler.dev/gists/pa-ulander?kill_cache=1)](https://badges.pufler.dev/gists/pa-ulander)  -->
-<!-- [![Years Badge](https://badges.pufler.dev/years/pa-ulander)](https://badges.pufler.dev)  -->
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/pa-ulander)](https://badges.pufler.dev) -->
+[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander)
 
 </p>
 
 ---
 
-<!-- ### Some stats -->
+<!-- <details>
+  <summary>Some Stats</summary>
 
-<!-- ![PA Ulander's github stats](https://github-readme-stats.vercel.app/api?username=pa-ulander&include_all_commits=true&count_private=true&show_icons=true&title_color=666)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-ulander&layout=compact)](https://github.com/pa-ulander/github-readme-stats) -->
+![PA Ulander's github stats](https://github-readme-stats.vercel.app/api?username=pa-ulander&include_all_commits=true&count_private=true&show_icons=true&title_color=666)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-ulander&layout=compact)](https://github.com/pa-ulander/github-readme-stats)
+
+</details> -->
