@@ -7,7 +7,7 @@ And please feel welcome to send a request to connect with me.
 ### What am I doing?
 
 - 🔭 I'm currently working on a few interesting and fun client projects.
-- 🌱 I'm also having fun learning Typescript, Go and Java and lots of other things.
+- 🌱 I'm also having fun learning Typescript, Go and Java.
 
 ---
 
