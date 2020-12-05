@@ -1,6 +1,6 @@
-### Hi there! Welcome to my Github page :wave:
+### Hi there! I'm PA :wave:
 
-My friends call me PA and I am an enthusiastic developer person located in Sweden.<br/>
+I am an enthusiastic developer person located in Sweden.<br/>
 For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>.<br/> 
 And please feel welcome to send a request to connect with me.
 
@@ -99,7 +99,8 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
 <!-- <details>
   <summary>Some Stats</summary>
 
-![PA Ulander's github stats](https://github-readme-stats.vercel.app/api?username=pa-ulander&include_all_commits=true&count_private=true&show_icons=true&title_color=666)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-ulander&layout=compact)](https://github.com/pa-ulander/github-readme-stats)
 
-</details> -->
+</details>
+
+--- -->
