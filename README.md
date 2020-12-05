@@ -1,16 +1,17 @@
-<img src="./banner.png" alt="banner" />
+<img src="./banner.jpg" alt="banner" />
 
-My friends call me PA and I am an enthusiastic web developer located in Stockholm, Sweden.
-For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>. And please feel welcome to send a request to connect with me.
+My friends call me PA and I am an enthusiastic developer person located in Sweden.<br/>
+For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>.<br/> 
+And please feel welcome to send a request to connect with me.
 
 ### What am I doing?
 
 - 🔭 I'm currently working on an interesting and fun client project.
-- 🌱 I'm having fun learning Typescript, Go and Java and lots of other things.
+- 🌱 I'm also having fun learning Typescript, Go and Java and lots of other things.
 
 ---
 
-### What may I use to get things done?
+### Bagdes of fun! What may I use to get things done?
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -70,11 +71,11 @@ For CV and references to work i have done over the years please visit my <a href
 </p>
 
 ---
+### How to contact me?
 
-### Contact me
-
-Please feel free to connect with me.<br />
-For work related enquiries Linkedin works best.
+By email: <a class="u-email link-gray-dark " href="mailto:pa@kabelkultur.se">pa@kabelkultur.se</a><br />
+For any work related enquiries, Linkedin works best.<br />
+Thank you for visisting and have an awesome day! :slightly_smiling_face::wave:
 
 <p>
   <!-- <a href="https://www.youtube.com/channel/UCvfvbhvWJlg2LP2Xs_TcWzw">
