@@ -74,8 +74,8 @@ And please feel welcome to send a request to connect with me.
 ### How to contact me?
 
 By email: <a class="u-email link-gray-dark " href="mailto:pa@kabelkultur.se">pa@kabelkultur.se</a><br />
-For any work related enquiries, Linkedin works best.<br />
-Thank you for visisting and have an awesome day! :slightly_smiling_face::wave:
+For any work related enquiries Linkedin works great.<br />
+Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
 
 <p>
   <!-- <a href="https://www.youtube.com/channel/UCvfvbhvWJlg2LP2Xs_TcWzw">
