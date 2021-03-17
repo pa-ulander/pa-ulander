@@ -11,7 +11,7 @@ And please feel welcome to send a request to connect with me.
 
 ---
 
-### Bagdes of fun! What may I use to get things done?
+### Badges of fun! What may I use to get things done?
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
