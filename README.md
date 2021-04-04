@@ -6,9 +6,10 @@ And please feel welcome to send a request to connect with me.
 
 ### What am I doing?
 
-- 🔭 I'm currently working on a few interesting and fun client projects.
-- 🌱 I'm also having fun learning Typescript, Python, Go and Java.
 
+- 🔭 I Got a new job, and I will be working full time.
+
+ 
 ---
 
 ### Bagdes of fun! What may I use to get things done?
