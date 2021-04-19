@@ -7,11 +7,11 @@ And please feel welcome to send a request to connect with me.
 ### What am I doing?
 
 
-- 🔭 I Got a new job, and I will be working full time.
+- 🌱 Trying to get better at using Typescript, and practising Nodejs and Go.
 
  
 ---
-
+<!--
 ### Badges of fun! What may I use to get things done?
 
 <p>
@@ -70,6 +70,7 @@ And please feel welcome to send a request to connect with me.
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 
 </p>
+-->
 
 ---
 ### How to contact me?
