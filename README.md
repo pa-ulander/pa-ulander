@@ -72,7 +72,7 @@ And please feel welcome to send a request to connect with me.
 </p>
 -->
 
----
+
 ### How to contact me?
 
 By email: <a class="u-email link-gray-dark " href="mailto:pa@kabelkultur.se">pa@kabelkultur.se</a><br />
