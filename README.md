@@ -9,9 +9,9 @@ And please feel welcome to send a request to connect with me.
 
 - 🌱 Trying to get better at using Typescript, and practising Nodejs and Go.
 
- 
+<!-- 
 ---
-<!--
+
 ### Badges of fun! What may I use to get things done?
 
 <p>
