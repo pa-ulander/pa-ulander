@@ -93,7 +93,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
 
-[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander)
+[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)
 
 </p>
 
