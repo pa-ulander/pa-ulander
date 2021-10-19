@@ -7,7 +7,7 @@ And please feel welcome to send a request to connect with me.
 ### What am I doing?
 
 
-- 🌱 Trying to get better at using Typescript, and practising Nodejs and Go.
+- 🌱 Trying to get better at using Typescript, and practising a little bit of Go.
 
 <!-- 
 ---
