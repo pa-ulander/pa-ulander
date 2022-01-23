@@ -1,4 +1,4 @@
-### Hi there! <!-- :wave: -->
+### Hi there! :wave:
 
 My friends call me PA and I am an enthusiastic developer person located in Sweden.<br/>
 For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>.<br/> 
