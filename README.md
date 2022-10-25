@@ -4,12 +4,13 @@ My friends call me PA and I am an enthusiastic developer person located in Swede
 For CV and references to work i have done over the years please visit my <a href="https://www.linkedin.com/in/paulander/" target="_blank"> linkedin profile</a>.<br/> 
 And please feel welcome to send a request to connect with me.
 
+<!--
+
 ### What am I doing?
 
 
 - 🌱 Trying to get better at using Typescript, and practising a little bit of Go.
 
-<!-- 
 ---
 
 ### Badges of fun! What may I use to get things done?
