@@ -97,7 +97,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
 <!--
 [![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa-ulander&base=658&color=lightgreen&style=flat-square&label=Profile+Views" alt="pa-ulander" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa-ulander&base=658&color=green&style=flat-square&label=Profile+Views" alt="pa-ulander" /> </p>
 </p>
 
 
