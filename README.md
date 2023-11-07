@@ -84,7 +84,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
   <!-- <a href="https://www.youtube.com/channel/UCvfvbhvWJlg2LP2Xs_TcWzw">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a> -->
-  <a href="https://www.linkedin.com/in/paulander/" styles="margin-right: 10px">
+  <a href="https://www.linkedin.com/in/paulander/" style="margin-right: 10px">
     <img alt="Linkedin" src="https://img.shields.io/badge/pa%20ulander-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a> 
   <a href="https://twitter.com/pa_ulander">
