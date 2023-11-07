@@ -94,10 +94,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
 
-<!--
-[![Visits Badge](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)](https://badges.pufler.dev/visits/pa-ulander/pa-ulander?kill_cache=1)
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa-ulander&base=658&color=green&style=for-the-badge&label=Views" alt="pa-ulander" /> </p>
+<img src="https://komarev.com/ghpvc/?username=pa-ulander&base=1658&color=green&style=for-the-badge&label=Views" alt="pa-ulander" />
 </p>
 
 
