@@ -84,12 +84,12 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
   <!-- <a href="https://www.youtube.com/channel/UCvfvbhvWJlg2LP2Xs_TcWzw">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a> -->
-  <span style="margin-right:10px">
+  <span styles="margin-right:10px">
   <a href="https://www.linkedin.com/in/paulander/">
     <img alt="Linkedin" src="https://img.shields.io/badge/pa%20ulander-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a> 
   </span>
-  <span style="margin-right:10px">
+  <span styles="margin-right:10px">
   <a href="https://twitter.com/pa_ulander">
     <img alt="Twitter" src="https://img.shields.io/badge/@pa_ulander-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a> 
@@ -97,7 +97,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <!-- <a href="https://www.instagram.com/pa_ulander/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
-<span style="margin-right:10px">
+<span styles="margin-right:10px">
   <img src="https://komarev.com/ghpvc/?username=pa-ulander&base=1658&color=green&style=for-the-badge&label=Views" alt="pa-ulander" />
 </span>
  </p>
