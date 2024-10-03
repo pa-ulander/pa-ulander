@@ -96,7 +96,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
 &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pa-ulander&color=green&style=for-the-badge&label=Views" alt="pa-ulander" />
+  <img src="https://ghvc.kabelkultur.se/?username=pa-ulander&color=green&style=for-the-badge&label=Views" alt="pa-ulander" />
 
  </p>
 
