@@ -88,8 +88,8 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <img alt="Linkedin" src="https://img.shields.io/badge/pa%20ulander-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a> 
 &nbsp;
-  <a href="https://twitter.com/pa_ulander">
-    <img alt="Twitter" src="https://img.shields.io/badge/@pa_ulander-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  <a href="[https://twitter.com/pa_ulander](https://bsky.app/profile/pa-ulander.bsky.social)">
+    <img alt="Bluesky" src="https://img.shields.io/badge/@pa_ulander-1DA1F2?logo=bluesky&logoColor=white&style=for-the-badge" />
   </a> 
   </span>
     <!-- <a href="https://www.instagram.com/pa_ulander/">
