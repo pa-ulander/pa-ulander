@@ -88,7 +88,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="28" width="110" />
   </a> 
 &nbsp;
-  <a href="https://bsky.app/profile/pa-ulander.bsky.social" target="_blank">
+  <a href="https://bsky.app/profile/pa-dev.bsky.social" target="_blank">
     <img alt="Bluesky" src="https://img.shields.io/badge/@pa_ulander-1DA1F2?logo=bluesky&logoColor=white&style=for-the-badge" />
   </a> 
   </span>
