@@ -89,7 +89,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
   </a> 
 &nbsp;
   <a href="https://bsky.app/profile/pa-dev.bsky.social" target="_blank">
-    <img alt="Bluesky" src="https://img.shields.io/badge/@pa_ulander-1DA1F2?logo=bluesky&logoColor=white&style=for-the-badge" />
+    <img alt="Bluesky" src="https://img.shields.io/badge/@pa—dev-1DA1F2?logo=bluesky&logoColor=white&style=for-the-badge" />
   </a> 
   </span>
     <!-- <a href="https://www.instagram.com/pa_ulander/">
