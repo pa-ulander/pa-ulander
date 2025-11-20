@@ -85,7 +85,7 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a> -->
   <a href="https://www.linkedin.com/in/paulander/" target="_blank">
-    <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="28" width="110" />
+    <img alt="Linkedin" src="https://github.com/pa-ulander/pa-ulander/blob/main/img/LI-In-Bug.png" height="28" />
   </a> 
 &nbsp;
   <a href="https://bsky.app/profile/pa-dev.bsky.social" target="_blank">
