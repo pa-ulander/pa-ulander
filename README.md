@@ -84,17 +84,10 @@ Thank you for visiting and have an awesome day! :slightly_smiling_face::wave:
   <!-- <a href="https://www.youtube.com/channel/UCvfvbhvWJlg2LP2Xs_TcWzw">
     <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a> -->
-  <a href="https://www.linkedin.com/in/paulander/" target="_blank">
-    <img alt="Linkedin" src="https://github.com/pa-ulander/pa-ulander/blob/main/img/LI-In-Bug.png" height="28" />
-  </a> 
-  <a href="https://bsky.app/profile/pa-dev.bsky.social" target="_blank">
-    <img alt="Bluesky" src="https://img.shields.io/badge/@pa—dev-1DA1F2?logo=bluesky&logoColor=white&style=for-the-badge" />
-  </a> 
-  </span>
+  <a href="https://www.linkedin.com/in/paulander/" target="_blank"><img alt="Linkedin" src="https://github.com/pa-ulander/pa-ulander/blob/main/img/LI-In-Bug.png" height="28" /></a><a href="https://bsky.app/profile/pa-dev.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/@pa—dev-1DA1F2?logo=bluesky&logoColor=white&style=for-the-badge" /></a>
     <!-- <a href="https://www.instagram.com/pa_ulander/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /> 
   </a>-->
-&nbsp;
   <img src="https://ghvc.kabelkultur.se/?username=pa-ulander&color=green&style=for-the-badge&label=Views" alt="pa-ulander" />
 
  </p>
